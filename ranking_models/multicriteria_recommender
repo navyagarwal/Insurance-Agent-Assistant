@@ -1,0 +1,63 @@
+# Multicriteria Recommender System for Insurance Policies based on Utility Theory
+# --------------------------------------------------------------------------------------------------------
+
+# Obtain age, income, term and sum-assured from user
+
+
+
+# User expresses his/her preference towards 
+# criteria:
+'''
+Low premium
+Flexibility in payment structure
+Tax benefits in insurance plan
+Benefits on death
+Benefits on survival
+Good customer service
+Bonus
+Add-ons & Special Schemes
+Availability of riders enabling
+customization of insurance plan
+
+'''
+# of insurance policy using Table:
+'''
+Linguistic variables            IFNs (mu, nu, pi)
+Very Important                  (0.90,0.05,0.05)
+Important                       (0.75,0.20,0.05)
+Medium                          (0.50,0.40,0.10)
+Unimportant                     (0.25,0.60,0.15)
+Very unimportant                (0.10,0.80,0.10)
+
+'''
+
+
+# Determine importance of criteria to user by utilizing Eq. (3)
+'''
+lamba j = f(mu j, nu j, pi j)
+
+'''
+
+
+
+# Proposed system filter policies that matches user profile -> filtering step
+
+
+
+
+# Performance of each policy over each feature is evaluated
+???
+
+
+
+
+# Calculate grey relational co-efficient of each policy over each criteria using Eq. (5)
+
+
+
+
+# Estimate overall utility to the user as grey relation grade of each policy utilizing Eq. (6)
+
+
+
+# Recommend the policy with maximum utility to the user
