@@ -1,6 +1,6 @@
 # Intelligent Insurance Agent
 
-~~Proof of Work project built on dummy data based on what I learned during my internship at Dawn Digitech~~
+~ Proof of Work project built on dummy data based on what I learned during my internship at Dawn Digitech ~
 
 ## Motive
 To build an intelligent software that can act as an assistant for both:
